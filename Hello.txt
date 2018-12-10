@@ -1,0 +1,14 @@
+
+hi Anil how are you nowt?:q
+:q
+
+wq:
+kajcaj
+:q
+exit
+:wq
+:?
+:wq?
+:wq!
+:wq!
+
