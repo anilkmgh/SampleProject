@@ -1,0 +1,15 @@
+Configuration management
+Version control tool
+
+Key Terminology
+Repository
+Trunk
+Tags
+Branches
+Working Copy
+Commit changes
+Developers has to clone new version of source after each commit
+
+
+anilkmgh
+!llusion_1
